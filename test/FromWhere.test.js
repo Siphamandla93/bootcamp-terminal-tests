@@ -9,6 +9,6 @@ describe('The FromWhere function', function(){
     });
     it('returns the town the car is from', function(){
         // this test will fail - can you fix it?
-        assert.equal('Cape Townn', FromWhere ('CA 123'));
+        assert.equal('Cape Town', FromWhere ('CA 123'));
     });
 });

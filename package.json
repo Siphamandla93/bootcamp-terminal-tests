@@ -1,0 +1,29 @@
+{
+  "name": "bootcamp-terminal-tests",
+  "version": "1.0.0",
+  "description": "bootcam-terminal-tests",
+  "main": "FromWhere.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mocha": "^3.4.1"
+  },
+  "script":{
+    "test": "mocha"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siphamandla93/bootcamp-terminal-tests.git"
+  },
+  "author": "Siphamandla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siphamandla93/bootcamp-terminal-tests/issues"
+  },
+  "homepage": "https://github.com/Siphamandla93/bootcamp-terminal-tests#readme"
+}
